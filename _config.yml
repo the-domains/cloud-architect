@@ -1,0 +1,14 @@
+layout_spectrum: 0.21710682241246104
+typography_spectrum: 0.4087554244324565
+color:
+  brandStrength: 0.8662483741063625
+  lightness: 0.445885231718421
+  saturation: 0.40199101413600147
+  rhythmicContrast: 0.7777056088671088
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: Cloud Architect
